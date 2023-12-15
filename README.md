@@ -1,4 +1,4 @@
-**Desafio Classificador de Nível de Herói**
+# Desafio Classificador de Nível de Herói
 
 **Descrição:**
 O objetivo deste código é criar um código simples, utilizando a linguagem JavaScript, para classificar o nível de herói.
@@ -17,7 +17,7 @@ O objetivo deste código é criar um código simples, utilizando a linguagem Jav
 2. [NodeJS](https://nodejs.org/en/download).
 
 
-**Esperado:**
+*Esperado:*
 - O código deve classificar o nível de herói de acordo com as condições estabelecidas.
 - A mensagem "O Herói de nome **{nome}** está no nível de **{nivel}**".
 
@@ -25,6 +25,13 @@ O objetivo deste código é criar um código simples, utilizando a linguagem Jav
 **Cenários Alternativos:**
 - **Nível de Herói inválido:**
   1. Insira o nível em formato válido .
+
+  **Uso:**
+  
+- Modifique as variáveis nomeDoHeroi e xpDoHeroi para definir o nome e os pontos de experiência do herói.
+Execute o script.
+- Verifique o log no console para ver o nome e o nível atribuído ao herói.
+- Sinta-se à vontade para personalizar o código conforme suas necessidades específicas ou integrá-lo a um projeto maior.
 
 
 
